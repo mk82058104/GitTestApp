@@ -1,0 +1,39 @@
+2021-12-12 11:54:40,766 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-12-12 11:56:00,031 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\workspace_12_12_2021\IngenioistechApp\pom.xml
+2021-12-12 11:56:07,764 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Ingenioustech:IngenioistechApp:0.0.1-SNAPSHOT @ E:\workspace_12_12_2021\IngenioistechApp\pom.xml.
+2021-12-12 11:56:09,018 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IngenioistechApp/src/main/java
+2021-12-12 11:56:09,022 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IngenioistechApp/src/test/java
+2021-12-12 11:56:10,601 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2021-12-12 11:56:19,223 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:56:19,223 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 11:56:19,227 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:56:19,228 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 11:57:19,867 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Ingenioustech:IngenioistechApp:0.0.1-SNAPSHOT @ E:\workspace_12_12_2021\IngenioistechApp\pom.xml.
+2021-12-12 11:57:20,501 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:20,501 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 11:57:20,506 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:20,507 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 11:57:21,901 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:21,902 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 11:57:21,904 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:21,905 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 11:57:41,620 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:41,621 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 11:57:41,623 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:41,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 11:57:42,685 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:42,686 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 11:57:42,690 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:57:42,690 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 11:58:26,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:58:26,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 11:58:26,471 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 11:58:26,471 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 12:05:06,780 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 12:05:06,780 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 12:05:06,782 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 12:05:06,782 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources
+2021-12-12 12:05:27,875 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 12:05:27,917 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\main\resources
+2021-12-12 12:05:27,930 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-12 12:05:27,931 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace_12_12_2021\IngenioistechApp\src\test\resources

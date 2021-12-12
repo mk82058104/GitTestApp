@@ -13,9 +13,5 @@ public class LoginPage {
 	public void tc_02(){
 		System.out.println("**** tc_02 ****");
 	}
-	@Test
-	public void tc_03(){
-		System.out.println("**** tc_03 ****");
-	}
 
 }
